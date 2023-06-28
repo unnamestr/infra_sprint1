@@ -1,5 +1,5 @@
 IP: 158.160.73.93;
 name_taski: https://practicum56.ddns.net;
 name_kittygram: https://s14-practicum56.serveminecraft.net;
-login: yc-user;
-password: NRjeSf;
+login: admin;
+password: admin;
