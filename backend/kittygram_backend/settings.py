@@ -1,10 +1,7 @@
 import os
 from pathlib import Path
-from dotenv import load_dotenv, find_dotenv
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-
-load_dotenv(find_dotenv())
 
 SECRET_KEY = os.environ['SECRET_KEY']
 
